@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T19:06:10.870Z" agent="5.0 (Windows)" version="14.6.1" etag="qpIyRP8jJr3AIWo8om9R" type="github"><diagram id="JAptR_LXG-9GPQH1fRH9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-26T19:24:23.216Z" agent="5.0 (Windows)" etag="bP8UWaPU1byeIAYAPpPo" version="14.6.1" type="github">
+  <diagram id="JAptR_LXG-9GPQH1fRH9" name="Page-1">
+    <mxGraphModel dx="910" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-1" target="wzNSeh43z7LLWpFK6pi3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-1" value="&lt;b&gt;Ideas from $100 Startup book&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-4" target="wzNSeh43z7LLWpFK6pi3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-4" target="wzNSeh43z7LLWpFK6pi3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-4" value="&lt;div&gt;&lt;b&gt;Build MVP&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Build Rate = 1 Idea/Week&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-7" target="wzNSeh43z7LLWpFK6pi3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-7" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Write that down!&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;Add new episode on Medium about my findings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-10" target="wzNSeh43z7LLWpFK6pi3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-10" value="&lt;b&gt;Deploy&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-15" value="&lt;b&gt;Spam Twitter&lt;/b&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;with my project links cause what sane persone wouldn&#39;t&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzNSeh43z7LLWpFK6pi3-23" target="wzNSeh43z7LLWpFK6pi3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzNSeh43z7LLWpFK6pi3-23" value="&lt;b&gt;Select 1 Idea&lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
